@@ -6,14 +6,17 @@ use utf8::all;
 
 has 'year' => (
     is => 'rw',
+    isa => 'Int',
 );
 
 has 'begin' => (
     is => 'rw',
+    isa => 'Str',
 );
 
 has 'end' => (
     is => 'rw',
+    isa => 'Str',
 );
 
 has 'months' => (
