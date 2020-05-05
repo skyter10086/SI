@@ -1,0 +1,17 @@
+Changes
+lib/SI.pm
+lib/SI/AvgSalary.pm
+lib/SI/BaseSalary.pm
+lib/SI/Corp.pm
+lib/SI/Log.pm
+lib/SI/Pay.pm
+lib/SI/Pension.pm
+lib/SI/Person.pm
+lib/SI/StatCode.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
